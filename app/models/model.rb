@@ -1,6 +1,6 @@
-require "sinatra"
+#require "sinatra"
 
 class Dog(name, breed)
   
 end
-Dog.new("rudolph", "mastiff")
+#Dog.new("rudolph", "mastiff")
