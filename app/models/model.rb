@@ -3,7 +3,7 @@ class Dog
 attr_accessor :name, :breed, :age
   def initialize(name, breed, age)
   end
-   def all 
+   def self.all 
       puts age
    end
 end
