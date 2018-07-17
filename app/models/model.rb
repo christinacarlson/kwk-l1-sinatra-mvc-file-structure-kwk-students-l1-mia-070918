@@ -8,6 +8,6 @@ class Dog
     age.each.do |x|
       puts x
     end
-  end
+   end
 end
 sparky=Dog.new("rudolph", "mastiff", 2)
