@@ -10,7 +10,7 @@ attr_accessor :name, :breed, :age
   @@all << age
   end
    def self.all 
-      puts age
+     return @@all
    end
 end
 sparky=Dog.new("rudolph", "mastiff", 2)
