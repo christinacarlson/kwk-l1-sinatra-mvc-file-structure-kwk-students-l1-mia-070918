@@ -5,7 +5,6 @@ attr_accessor :name, :breed, :age
   end
    def all 
       puts age
-    end
    end
 end
 sparky=Dog.new("rudolph", "mastiff", 2)
