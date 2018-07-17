@@ -13,4 +13,4 @@ attr_accessor :name, :breed, :age
      return @@all
    end
 end
-sparky=Dog.new("rudolph", "mastiff", 2)
+# sparky=Dog.new("rudolph", "mastiff", 2)
