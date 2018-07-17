@@ -1,7 +1,7 @@
 require "sinatra"
 
 class Dog 
-  gets "/" do 
+  get "/" do 
     "woof"
   end
 end
