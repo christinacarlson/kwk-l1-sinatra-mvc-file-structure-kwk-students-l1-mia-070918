@@ -1,5 +1,7 @@
+require "sinatra"
+
 class Dog 
-  get "/" do 
+  gets "/" do 
     "woof"
   end
 end
