@@ -4,5 +4,7 @@ class Dog
     @breed = breed
     @age = age
   end
+  def all
+    
 end
 sparky=Dog.new("rudolph", "mastiff", 2)
