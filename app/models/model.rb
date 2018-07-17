@@ -7,7 +7,7 @@ attr_accessor :name, :breed, :age
     @name=name
     @breed=breed
     @age=age
-  @@all << age
+  @@all << name
   end
    def self.all 
      return @@all
