@@ -6,4 +6,4 @@ class Dog
     @breed = breed
   end
 end
-# Dog.new("rudolph", "mastiff")
+Dog.new("rudolph", "mastiff")
