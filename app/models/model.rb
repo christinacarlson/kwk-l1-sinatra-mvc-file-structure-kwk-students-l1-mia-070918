@@ -5,8 +5,9 @@ class Dog
     @age = age
   end
    def all 
-    age.each.do |x|
-      puts x
+    each.do |age|
+      
+      puts age
     end
    end
 end
