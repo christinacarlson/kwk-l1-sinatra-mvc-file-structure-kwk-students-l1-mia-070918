@@ -4,8 +4,10 @@ class Dog
     @breed = breed
     @age = age
   end
+   def all 
     age.each.do |x|
       puts x
+    end
   end
 end
 sparky=Dog.new("rudolph", "mastiff", 2)
