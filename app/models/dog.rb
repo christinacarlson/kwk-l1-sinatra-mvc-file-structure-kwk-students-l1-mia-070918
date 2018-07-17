@@ -1,6 +1,6 @@
 # require "sinatra"
 
-class Dog(name, breed)
+class Dog
   
 end
 # Dog.new("rudolph", "mastiff")
