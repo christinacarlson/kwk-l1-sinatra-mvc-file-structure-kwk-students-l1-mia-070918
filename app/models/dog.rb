@@ -1,6 +1,6 @@
 require "sinatra"
 
-class Dog 
+class Dog(name,)
   get "/" do 
     "woof"
   end
